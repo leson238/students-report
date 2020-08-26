@@ -14,8 +14,6 @@ Python version 3.8.5 on Windows 10
 
 - Running the application: *python GUI.py*
 
-- Running test: *pytest*
-
 **2. ****Application description:**
 
 This is designed to help quickly produce students report without access to the database (only csv files are provided). Come with simple GUI, and error logging friendly with non-tech users. Tested with mock input, and simple function test.
