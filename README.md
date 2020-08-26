@@ -20,4 +20,4 @@ Python version 3.8.5 on Windows 10
 
 This is designed to help quickly produce students report without access to the database (only csv files are provided). Come with simple GUI, and error logging friendly with non-tech users. Tested with mock input, and simple function test.
 
-![image info](test_run.jpg)
+![](test-run.jpg)
